@@ -6,4 +6,3 @@
 
 ## Contributors
 
-- Billy boy, SomeFakeName, this.is.fake@something.fr
